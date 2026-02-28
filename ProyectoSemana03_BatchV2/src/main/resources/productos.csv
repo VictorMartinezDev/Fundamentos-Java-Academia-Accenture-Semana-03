@@ -1,0 +1,201 @@
+id,nombre,precio,stock
+1,Teclado Mecanico RGB,85.50,15
+2,Mouse Gamer Pro,45.00,30
+3,Monitor 24 Pulgadas,180.00,10
+4,Cable HDMI 2.0,12.99,50
+5,Auriculares Bluetooth,55.20,20
+6,Alfombrilla XL,15.00,100
+7,Webcam 1080p,65.00,8
+8,Soporte para Laptop,25.40,25
+9,Disco Duro Externo 1TB,59.99,12
+10,Memoria USB 64GB,9.50,60
+11,Tarjeta Madre ATX,145.00,5
+12,Procesador i7-12700K,320.00,7
+13,Memoria RAM 16GB DDR4,65.00,22
+14,Tarjeta Grafica RTX 3060,399.00,3
+15,Fuente de Poder 750W,89.00,14
+16,Gabinete Mid-Tower,75.00,9
+17,Ventilador CPU RGB,35.00,18
+18,SSD NVMe 500GB,49.00,40
+19,Adaptador WiFi USB,18.50,55
+20,Pasta Termica 4g,8.00,120
+21,Silla Gamer Ergonomica,210.00,4
+22,Escritorio de Madera,150.00,6
+23,Lampara de Monitor LED,32.00,30
+24,Hub USB-C 7 en 1,42.00,20
+25,Cable DisplayPort 1.4,14.50,45
+26,Altavoces Estereo 2.0,28.00,15
+27,Microfono Condensador,88.00,11
+28,Brazo para Monitor,38.50,13
+29,Kit de Limpieza Pantallas,10.00,80
+30,Bateria Externa 20000mAh,35.00,25
+31,Cargador Carga Rapida,22.00,50
+32,Filtro Anti-Pop,12.00,40
+33,Tira LED Inteligente,19.90,65
+34,Smartwatch Sport,45.00,18
+35,Tablet 10 Pulgadas,125.00,12
+36,Funda para Laptop 15,15.50,35
+37,Teclado Inalambrico Slim,29.00,28
+38,Mouse Pad de Aluminio,19.00,14
+39,Convertidor HDMI a VGA,11.00,40
+40,Organizador de Cables,7.50,150
+41,Camara de Seguridad WiFi,55.00,16
+42,Enchufe Inteligente,14.00,42
+43,Repetidor WiFi AC1200,38.00,22
+44,Soporte Vertical PS5,25.00,10
+45,Mando para PC,32.00,24
+46,Capturadora de Video,110.00,5
+47,Soporte Auriculares,18.00,30
+48,Lector de Tarjetas SD,12.50,48
+49,Cable Ethernet Cat6 5m,9.00,100
+50,Bolsa de Aire Comprimido,6.50,75
+51,Teclado Numerico USB,14.00,20
+52,Mouse Vertical Ergo,38.00,15
+53,Monitor Portatil 15,160.00,8
+54,Bocina Bluetooth Waterproof,29.00,33
+55,Protector de Teclado,5.00,90
+56,Luz de Anillo 10 Pulgadas,24.00,25
+57,Tripode para Smartphone,18.00,40
+58,Adaptador Bluetooth 5.0,12.00,60
+59,Cable de Red 10m,14.00,50
+60,Maletin Ejecutivo,45.00,12
+61,Base con Ventilador Laptop,28.00,18
+62,Teclado mecanico 60%,65.00,10
+63,Interruptor KVM,48.00,6
+64,Extensor de Rango WiFi,25.00,30
+65,Cámara Web 4K,120.00,4
+66,Gafas Filtro Luz Azul,15.00,55
+67,Calculadora Cientifica,22.00,20
+68,Cuaderno Inteligente,35.00,15
+69,Lapiz Optico Universal,12.00,50
+70,Pilas Recargables AA,18.00,44
+71,Cargador de Pilas,15.00,22
+72,Funda Tablet Silicona,9.00,40
+73,Lampara Escritorio Táctil,28.00,18
+74,Mini Proyector LED,85.00,7
+75,Pantalla para Proyector,45.00,5
+76,Cable Lightning 2m,12.00,80
+77,Cargador Inalambrico Qi,19.00,35
+78,Soporte Magnetico Coche,10.00,60
+79,Localizador Bluetooth,25.00,20
+80,Auriculares con Cable,15.00,50
+81,Adaptador Audio Jack-C,8.00,100
+82,SSD Externo 500GB,75.00,15
+83,Llavero Herramienta,6.00,120
+84,Candado para Laptop,14.00,30
+85,Micro SD 128GB,22.00,45
+86,Filtro de Privacidad 14,35.00,10
+87,Base de Carga Triple,42.00,12
+88,Mochila Antirrobo,55.00,18
+89,Limpiador de Teclado Gel,7.00,85
+90,Grip para Mouse,8.50,60
+91,Joystick de Vuelo,130.00,3
+92,Volante de Carreras,250.00,2
+93,Pedales para Gaming,95.00,4
+94,Adaptador de Corriente Int,18.00,30
+95,Switch 5 Puertos Gigabit,22.00,25
+96,Panel Acustico 12 pack,38.00,14
+97,Brazo Microfono Pro,45.00,10
+98,Luz LED RGB Hexagonal,65.00,9
+99,Cronómetro Digital,12.00,30
+100,Balanza Digital Cocina,15.00,40
+101,Aspiradora de Mano USB,24.00,15
+102,Soporte para Tablet Pared,18.00,20
+103,Cable Micro USB 1m,5.00,150
+104,Estacion de Acoplamiento,110.00,6
+105,Webcam Cover 3 pack,4.00,200
+106,Protector de Sobretension,28.00,22
+107,UPS 650VA,65.00,8
+108,Mouse Inalambrico Basico,12.00,70
+109,Teclado de Membrana,20.00,45
+110,Cojin Lumbar Silla,25.00,30
+111,Reposapies de Oficina,32.00,15
+112,Puntero Laser Presenter,19.00,25
+113,Caja Externa HDD 2.5,14.00,38
+114,Splitter HDMI 1x2,15.00,30
+115,Control Remoto Universal,12.00,50
+116,Ventilador USB Escritorio,10.00,65
+117,Cargador Carro Dual,9.00,80
+118,Antena HDTV Interior,18.00,24
+119,Gafas VR Basicas,25.00,12
+120,Sensor de Movimiento Zigbee,15.00,40
+121,Alarma de Puerta WiFi,12.00,55
+122,Smart Plug Mini,11.00,60
+123,Termometro Digital Higro,9.50,48
+124,Bascula Corporal Smart,32.00,14
+125,Cepillo Electrico USB,28.00,20
+126,Humidificador Ultrasónico,22.00,18
+127,Difusor de Aromas,19.00,25
+128,Lampara de Noche Infantil,14.00,35
+129,Espejo con Luz LED,25.00,10
+130,Organizador de Escritorio,18.00,28
+131,Sujeta Libros Metal,12.00,40
+132,Pizarra Blanca 60x40,29.00,15
+133,Marcadores para Pizarra,8.00,100
+134,Borrador Magnetico,3.50,120
+135,Chinchetas de Colores,2.50,300
+136,Clips Gigantes 50 pack,4.00,200
+137,Engrapadora de Brazo,15.00,25
+138,Perforadora 2 Huecos,10.00,30
+139,Cinta Adhesiva 3 pack,5.50,150
+140,Dispensador de Cinta,8.00,40
+141,Tijeras de Oficina,4.50,80
+142,Cutter Profesional,6.00,60
+143,Regla Metalica 30cm,3.00,100
+144,Carpeta de Anillas,5.00,120
+145,Separadores de Indice,2.00,200
+146,Sobres de Burbuja 10 pack,8.00,50
+147,Papel A4 500 hojas,6.50,200
+148,Tinta para Impresora Negra,22.00,40
+149,Tinta para Impresora Color,28.00,30
+150,Cable Paralelo Antiguo,15.00,5
+151,Lector Codigo de Barras,45.00,12
+152,Impresora Termica Tickets,85.00,8
+153,Cajon Portamonedas,55.00,6
+154,Papel Termico 10 rollos,12.00,100
+155,Escaner de Documentos,140.00,4
+156,Telefono IP,75.00,10
+157,Diadema Call Center,32.00,25
+158,Switch POE 8 Puertos,88.00,7
+159,Patch Cord 1m Cat6,2.50,300
+160,Conectores RJ45 100 pack,10.00,50
+161,Crimpadora de Impacto,18.00,20
+162,Probador de Cables Red,14.00,35
+163,Gabinete de Pared 6U,120.00,3
+164,Bandeja para Rack,25.00,10
+165,PDU Regleta Rack,45.00,8
+166,Servidor Basico NAS,190.00,4
+167,Disco Duro NAS 4TB,110.00,12
+168,Controladora RAID,150.00,2
+169,Tarjeta de Red 10Gbps,95.00,5
+170,Cable Fibra Optica 3m,18.00,40
+171,Transceptor SFP,22.00,30
+172,Convertidor de Medios,45.00,15
+173,Antena Parabolica WiFi,65.00,6
+174,Protector Solar para Camara,12.00,20
+175,Soporte de Techo Proyector,35.00,10
+176,Pizarra Tactil,450.00,2
+177,Sistema de Sonido 5.1,280.00,3
+178,Receptor AV,350.00,2
+179,Subwoofer Activo,150.00,4
+180,Cable de Audio Optico,12.00,60
+181,Extensor HDMI por Red,48.00,12
+182,Matriz HDMI 4x4,180.00,3
+183,Modulador RF,55.00,5
+184,Decodificador Digital,35.00,20
+185,Mando de Garaje Clonador,10.00,80
+186,Timbre Inteligente Video,95.00,11
+187,Cerradura Electronica,145.00,6
+188,Sensor de Inundacion,18.00,25
+189,Detector de Humo WiFi,22.00,30
+190,Valvula de Agua Smart,55.00,8
+191,Controlador Aire Acond,28.00,15
+192,Estacion Meteorologica,65.00,7
+193,Anemometro Digital,32.00,10
+194,Medidor de Distancia Laser,38.00,18
+195,Nivel Laser Autonivelante,85.00,5
+196,Multimetro Digital Pro,45.00,14
+197,Soldador de Estano 60W,15.00,25
+198,Fuente de Alimentacion Lab,110.00,4
+199,Osciloscopio Portatil,220.00,2
+200,Kit de Electronica Basico,45.00,15
